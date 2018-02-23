@@ -1,0 +1,5 @@
+spring:
+    profiles: openshift  
+        
+server: 
+ port: 9080    
